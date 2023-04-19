@@ -63,7 +63,7 @@ In major_project.zip file there are various files and folders:
 * The Tensorflow library: https://www.tensorflow.org/
 * The Keras library: https://keras.io/
 
-## Contacts
+## Made By
 
 - Garima Patel- https://www.linkedin.com/in/garima-patel-58b656241
 - Abhishek Jain- https://www.linkedin.com/in/abhishek-jain-59a760210
