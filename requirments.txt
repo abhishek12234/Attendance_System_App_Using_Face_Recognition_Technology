@@ -1,0 +1,19 @@
+1. tkinter-> pip install tk
+
+2. PIL-> pip install pillow
+
+3. OpenCV-> pip install opencv-python
+
+4. face_recognition-> for this library you have to first install dlib and then you can use pip install face_recognition command to install this library.to install dlib you can refer this link https://github.com/sachadee/Dlib.
+
+5. pandas-> pip install pandas
+
+6. datetime-> pip install datetime
+
+7. tensorflow-> pip install tensorflow
+
+8. keras-> pip install keras
+
+9. numpy-> pip install  numpy
+
+10. tkcalander-> pip install tkcalendar
