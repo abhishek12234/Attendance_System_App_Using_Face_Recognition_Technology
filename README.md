@@ -65,9 +65,9 @@ In major_project.zip file there are various files and folders:
 
 ## Made By
 
-- Garima Patel- https://www.linkedin.com/in/garima-patel-58b656241
-- Abhishek Jain- https://www.linkedin.com/in/abhishek-jain-59a760210
 
+- Abhishek Jain- https://www.linkedin.com/in/abhishek-jain-59a760210
+- Garima Patel- https://www.linkedin.com/in/garima-patel-58b656241
 
 
 
